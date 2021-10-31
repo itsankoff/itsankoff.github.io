@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Blogs on thetooth.io 🦷</title><link>https://thetooth.io/blog/</link><description>Recent content in Blogs on thetooth.io 🦷</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 13:59:18 +0200</lastBuildDate><atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>The Beginning</title><link>https://thetooth.io/blog/thebeginning/</link><pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate><guid>https://thetooth.io/blog/thebeginning/</guid><description>Init blogpost</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blogs on thetooth.io 🦷</title>
+    <link>https://thetooth.io/blog/</link>
+    <description>Recent content in Blogs on thetooth.io 🦷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Oct 2021 13:59:18 +0200</lastBuildDate><atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Article</title>
+      <link>https://thetooth.io/blog/second/</link>
+      <pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate>
+      
+      <guid>https://thetooth.io/blog/second/</guid>
+      <description>Second article</description>
+    </item>
+    
+    <item>
+      <title>The Beginning</title>
+      <link>https://thetooth.io/blog/thebeginning/</link>
+      <pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate>
+      
+      <guid>https://thetooth.io/blog/thebeginning/</guid>
+      <description>Init blogpost v2
+echo Hello World </description>
+    </item>
+    
+  </channel>
+</rss>
