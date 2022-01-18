@@ -15,7 +15,7 @@
       <guid>https://thetooth.io/blog/ssh_access/</guid>
       <description>If you are landing on this page you most probably already know what SSH is and how to use it through CLI.
 If not, you can always read here.
-Usually, at the beginning, people start with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that is hard or impossible to remember.
+Usually, in the beginning, people start with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.
 Let&amp;rsquo;s give you an example:
 ## SSH with custom non-default port ssh &amp;lt;user&amp;gt;@&amp;lt;long_host&amp;gt; -p &amp;lt;custom_non_default_port&amp;gt; # SSH with custom access file ssh -i /path/to/another_access_file &amp;lt;another_user&amp;gt;@&amp;lt;another_long_host&amp;gt; -p &amp;lt;some_magical_non_default_port&amp;gt; # SSH through Jump server ssh -J &amp;lt;magical_host_to_jump_server&amp;gt; &amp;lt;target_host&amp;gt; #.</description>
     </item>
