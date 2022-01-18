@@ -6,14 +6,18 @@
     <description>Recent content in Blogs on thetooth.io 🦷</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Oct 2021 13:59:18 +0200</lastBuildDate><atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate><atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Second Article</title>
-      <link>https://thetooth.io/blog/second/</link>
-      <pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate>
+      <title>SSH access made easy 📟</title>
+      <link>https://thetooth.io/blog/ssh_access/</link>
+      <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
       
-      <guid>https://thetooth.io/blog/second/</guid>
-      <description>Second article</description>
+      <guid>https://thetooth.io/blog/ssh_access/</guid>
+      <description>If you are landing on this page you most probably already know what SSH is and how to use it through CLI.
+If not, you can always read here.
+Usually, at the beginning, people start with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that is hard or impossible to remember.
+Let&amp;rsquo;s give you an example:
+## SSH with custom non-default port ssh &amp;lt;user&amp;gt;@&amp;lt;long_host&amp;gt; -p &amp;lt;custom_non_default_port&amp;gt; # SSH with custom access file ssh -i /path/to/another_access_file &amp;lt;another_user&amp;gt;@&amp;lt;another_long_host&amp;gt; -p &amp;lt;some_magical_non_default_port&amp;gt; # SSH through Jump server ssh -J &amp;lt;magical_host_to_jump_server&amp;gt; &amp;lt;target_host&amp;gt; #.</description>
     </item>
     
     <item>
@@ -22,7 +26,7 @@
       <pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate>
       
       <guid>https://thetooth.io/blog/thebeginning/</guid>
-      <description>Init blogpost v2
+      <description>Init blogpost 🎬
 echo Hello World </description>
     </item>
     
