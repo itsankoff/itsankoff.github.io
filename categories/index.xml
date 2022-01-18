@@ -5,6 +5,34 @@
     <link>https://thetooth.io/categories/</link>
     <description>Recent content in Categories on thetooth.io 🦷</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thetooth.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate><atom:link href="https://thetooth.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://thetooth.io/categories/devops/</link>
+      <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
+      
+      <guid>https://thetooth.io/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>infra</title>
+      <link>https://thetooth.io/categories/infra/</link>
+      <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
+      
+      <guid>https://thetooth.io/categories/infra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://thetooth.io/categories/tech/</link>
+      <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
+      
+      <guid>https://thetooth.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

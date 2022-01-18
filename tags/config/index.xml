@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>config on thetooth.io 🦷</title>
+    <link>https://thetooth.io/tags/config/</link>
+    <description>Recent content in config on thetooth.io 🦷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate><atom:link href="https://thetooth.io/tags/config/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SSH access made easy 📟</title>
+      <link>https://thetooth.io/blog/ssh_access/</link>
+      <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
+      
+      <guid>https://thetooth.io/blog/ssh_access/</guid>
+      <description>If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.
+Usually, in the beginning, people start with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.</description>
+    </item>
+    
+  </channel>
+</rss>
