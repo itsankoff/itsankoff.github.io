@@ -5,11 +5,8 @@
 <meta name=robots content="index, follow">
 <title>SSH access made easy 📟 | thetooth.io 🦷</title>
 <meta name=keywords content>
-<meta name=description content="If you are landing on this page you most probably already know what SSH is and how to use it through CLI.
-If not, you can always read here.
-Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.
-Let&rsquo;s give you an example:
-## SSH with custom non-default port ssh <user>@<long_host> -p <custom_non_default_port> # SSH with custom access file ssh -i /path/to/another_access_file <another_user>@<another_long_host> -p <some_magical_non_default_port> # SSH through Jump server ssh -J <magical_host_to_jump_server> <target_host> #.">
+<meta name=description content="If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.
+Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.">
 <meta name=author content="Me">
 <link rel=canonical href=https://thetooth.io/blog/ssh_access/>
 <link crossorigin=anonymous href=/assets/css/stylesheet.min.6f60056d44d3f7eb69a4bc6c332b59960f3a995802bded244750232f33713c49.css integrity="sha256-b2AFbUTT9+tppLxsMytZlg86mVgCve0kR1AjLzNxPEk=" rel="preload stylesheet" as=style>
@@ -29,24 +26,18 @@ Let&rsquo;s give you an example:
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-255TE7PF8E"></script>
 <script>var doNotTrack=!1;if(!doNotTrack){window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date),gtag('config','G-255TE7PF8E',{anonymize_ip:!1})}</script>
 <meta property="og:title" content="SSH access made easy 📟">
-<meta property="og:description" content="If you are landing on this page you most probably already know what SSH is and how to use it through CLI.
-If not, you can always read here.
-Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.
-Let&rsquo;s give you an example:
-## SSH with custom non-default port ssh <user>@<long_host> -p <custom_non_default_port> # SSH with custom access file ssh -i /path/to/another_access_file <another_user>@<another_long_host> -p <some_magical_non_default_port> # SSH through Jump server ssh -J <magical_host_to_jump_server> <target_host> #.">
+<meta property="og:description" content="If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.
+Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://thetooth.io/blog/ssh_access/"><meta property="article:section" content="blog">
 <meta property="article:published_time" content="2022-01-17T13:39:58+02:00">
 <meta property="article:modified_time" content="2022-01-17T13:39:58+02:00">
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="SSH access made easy 📟">
-<meta name=twitter:description content="If you are landing on this page you most probably already know what SSH is and how to use it through CLI.
-If not, you can always read here.
-Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.
-Let&rsquo;s give you an example:
-## SSH with custom non-default port ssh <user>@<long_host> -p <custom_non_default_port> # SSH with custom access file ssh -i /path/to/another_access_file <another_user>@<another_long_host> -p <some_magical_non_default_port> # SSH through Jump server ssh -J <magical_host_to_jump_server> <target_host> #.">
+<meta name=twitter:description content="If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.
+Usually, in the beginning, people start with simple ssh <user>@<host> CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.">
 <script type=application/ld+json>{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Blogs","item":"https://thetooth.io/blog/"},{"@type":"ListItem","position":2,"name":"SSH access made easy 📟","item":"https://thetooth.io/blog/ssh_access/"}]}</script>
-<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"SSH access made easy 📟","name":"SSH access made easy 📟","description":"If you are landing on this page you most probably already know what SSH is and how to use it through CLI.\nIf not, you can always read here.\nUsually, in the beginning, people start with simple ssh \u0026lt;user\u0026gt;@\u0026lt;host\u0026gt; CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.\nLet\u0026rsquo;s give you an example:\n## SSH with custom non-default port ssh \u0026lt;user\u0026gt;@\u0026lt;long_host\u0026gt; -p \u0026lt;custom_non_default_port\u0026gt; # SSH with custom access file ssh -i /path/to/another_access_file \u0026lt;another_user\u0026gt;@\u0026lt;another_long_host\u0026gt; -p \u0026lt;some_magical_non_default_port\u0026gt; # SSH through Jump server ssh -J \u0026lt;magical_host_to_jump_server\u0026gt; \u0026lt;target_host\u0026gt; #.","keywords":[],"articleBody":"If you are landing on this page you most probably already know what SSH is and how to use it through CLI.\nIf not, you can always read here.\nUsually, in the beginning, people start with simple ssh @ CLI usage. With time, people start using more and more advanced options which results in having messed-up commands that are hard or impossible to remember.\nLet’s give you an example:\n## SSH with custom non-default port ssh @ -p  # SSH with custom access file ssh -i /path/to/another_access_file @ -p  # SSH through Jump server ssh -J   #.. and so on and so forth Remembering dictionary information nowadays should be considered a crime! So what you can do to make yourself a proper citizen of the world?\nSSH config on the rescue SSH utility has a metaverse of options on its own, so let’s try to utilize them and simplify our work! One of them is the SSH config. The SSH config is a configurational file, usually stored at ~/.ssh/config where you can pre-configure hosts and access configuration that you use frequently and simplify the access shown above to:\n# access with custom port ssh test # access with custom access file ssh ci # access through jump server ssh prod Setup  Check whether you have ~/.ssh/config on your local setup. If, let’s create it! Open the file with a text editor (vim, VSCode, nano, etc…) Write down:  Host test Hostname  # mandatory Port  # optional User  # optional | nice-to-have IdentityFile  # optional | nice-to-have ProxyJump  # optional Save the file  Where:\n host|ip - is the DNS host or IP address of the target server port - you can skip this if the target server runs SSH on the default 22 port. Otherwise, you will need to state it username - the name of the remote user on the target server you want to connect with. NOTE: Default is your local machine username /path/to/identity_file - this is the path to the private key you use to connect to the target server. NOTE: Default is ~/.ssh/id_rsa or an iteration of the files within ~/.ssh directory host|ip_of_jump_server - if you want to connect to a target server using a jump server, you should specify its DNS host or IP address here.  There are a ton of other options which you can explore here\nUsage and Access Just run ssh test. If you have configured everything properly you should be connected to the target server with a clean and easy-to-remember CLI.\nTroubleshooting In case the setup does not work, there are a few things you can inspect:\n 🙇 Make sure you saved ~/.ssh/config ✏️ Check for typos within the ~/.ssh/config ☎️ If using DNS records for hostname configuration, inspect whether your setup can resolve them nslookup  🔌 If you are not sure whether the configured port is open you can always run nc -G 1  , where 1 is one second of timeout. If the operation times out, most probably the port is not open. 🖨️ Check for network access to the target server ping . NOTE: Sometimes admins disable ping, so it may not work. You can use traceroute in that case.  Wrap-up In the beginning, it may seem a burden to maintain your SSH config file. But with time and exposure to more servers you will eventually end up using SSH config anyway.\nIn the end - What if you want to create another host for access. Just repeat the steps above and enjoy your day! 🎉\n PS: If you have a friend who is struggling with SSH you can always share it with the links down-below ⬇️\n","wordCount":"618","inLanguage":"en","datePublished":"2022-01-17T13:39:58+02:00","dateModified":"2022-01-17T13:39:58+02:00","author":{"@type":"Person","name":"Me"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://thetooth.io/blog/ssh_access/"},"publisher":{"@type":"Organization","name":"thetooth.io 🦷","logo":{"@type":"ImageObject","url":"https://thetooth.io/images/favicon.ico"}}}</script>
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"BlogPosting","headline":"SSH access made easy 📟","name":"SSH access made easy 📟","description":"If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.\nUsually, in the beginning, people start with simple ssh \u0026lt;user\u0026gt;@\u0026lt;host\u0026gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.","keywords":[],"articleBody":"If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.\nUsually, in the beginning, people start with simple ssh @ CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.\nLet’s give you an example:\n# My SSH life begins here ssh user@host # That was easy :) # Then some person decides to enforce security through obscurity ssh user@this.is.a.super.long.host.that.is.hard.to.remember.private.com # Eh mate, you can do better ;) # Then the same person decides to change the default port ssh -p 43571 user@this.is.a.super.long.host.that.is.hard.to.remember.private.com # I am pretty good at numerology X) # That's not enough, so let's disable password auth and # enforce public/private key authentication only ssh -p 43571 -i /where/the/heck/is/my/private/key user@this.is.a.super.long.host.that.is.hard.to.remember.private.com # Grr... :| # somebody from the infra team: # \"Mmm, the security team asked us to put everything in a private network # and you will need an access the server through our jump server\" ssh -J jumbo@this.is.another.obscure.host.private.jump.com:62891 -i /where/the/heck/is/my/private/key -p 43571 user@this.is.a.super.long.host.that.is.hard.to.remember.private.com # Just shut up and teach me about SSH config file! :@ Remembering dictionary information nowadays should be considered a crime! So what you can do to make yourself a proper citizen of the world?\nSSH config on the rescue SSH utilities have a metaverse of options and tools, so let’s try to utilize them and simplify our work! One of them is the SSH config. The SSH config is a configurational file, usually stored at ~/.ssh/config where you can pre-configure hosts and access configuration that you use frequently and simplify the access shown above to:\n# access the 'this.is.a.super.long.host.that.is.hard.to.remember.private.com' ssh test # access the non-default-port (43571) on you-know-which-host ssh ci # access the production for f@ck sake! ssh prod Setup  Check whether you have ~/.ssh/config on your local setup. If the file does not exist, let’s create it! NOTE: ~(tilda) means the home directory of the current user. Open the file with a text editor (vim, emacs, VSCode, nano, etc…) Write down:  Host  Hostname  # mandatory Port  # optional User  # optional | nice-to-have IdentityFile  # optional | nice-to-have ProxyJump  # optional Replace the mandatory placeholders and remove the unused ones Save the file  Where:\n Hostname  - the DNS host or IP address of the target server Port  - you can skip this if the target server runs SSH on the default 22 port. Otherwise, you will need to state it User  - the name of the remote user on the target server you want to connect with. NOTE: Default is your local machine username IdentifyFile  - this is the path to the private key you use to connect to the target server. NOTE: Default is ~/.ssh/id_rsa or an iteration of the files within ~/.ssh directory ProxyJump  - if you want to connect to a target server using a jump server, you should specify its DNS host or IP address here.  There are a ton of other options which you can explore here\nUsage and Access # My SSH life begins again ssh test ssh ci ssh prod If you have configured everything properly you should be connected to the target server with a clean and easy-to-remember CLI. 🎊\nTroubleshooting In case the setup does not work, there are a few things you can inspect:\n ✏️ Make sure you saved ~/.ssh/config 🔎 Check for typos within the ~/.ssh/config ☎️ If using DNS records for hostname configuration, inspect whether your setup can resolve them nslookup  🔌 If you are not sure whether the configured port is open you can always run nc -G 1  , where -G 1 is one second of timeout. If the operation times out, most probably the port is not open. 🖨️ Check for network access to the target server ping . NOTE: Sometimes admins disable ping, so it may not work. You can use traceroute in that case. 🔓 In case of WARNING: UNPROTECTED PRIVATE KEY FILE! run chmod 0600 /path/to/private/key  Wrap-up In the beginning, it may seem an overkill to maintain your SSH config file. But with time and exposure to more servers you will eventually end up using SSH config anyway.\nIn the end - What if you want to create another host for access. Just repeat the steps above and enjoy your day! 🎉\n PS: If you have a friend who is struggling with SSH you can always share it with the links down-below ⬇️\n","wordCount":"785","inLanguage":"en","datePublished":"2022-01-17T13:39:58+02:00","dateModified":"2022-01-17T13:39:58+02:00","author":{"@type":"Person","name":"Me"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://thetooth.io/blog/ssh_access/"},"publisher":{"@type":"Organization","name":"thetooth.io 🦷","logo":{"@type":"ImageObject","url":"https://thetooth.io/images/favicon.ico"}}}</script>
 </head>
 <body class=dark id=top>
 <script>localStorage.getItem("pref-theme")==="light"&&document.body.classList.remove('dark')</script>
@@ -91,75 +82,100 @@ Let&rsquo;s give you an example:
 <h1 class=post-title>
 SSH access made easy 📟
 </h1>
-<div class=post-meta><span title="2022-01-17 13:39:58 +0200 +0200">January 17, 2022</span>&nbsp;·&nbsp;3 min&nbsp;·&nbsp;Me
+<div class=post-meta><span title="2022-01-17 13:39:58 +0200 +0200">January 17, 2022</span>&nbsp;·&nbsp;4 min&nbsp;·&nbsp;Me
 </div>
 </header>
-<div class=post-content><p>If you are landing on this page you most probably already know what SSH is and
-how to use it through CLI.</p>
-<p>If not, you can always read <a href=https://en.wikipedia.org/wiki/Secure_Shell>here</a>.</p>
+<div class=post-content><p>If you are landing on this page you probably already know what SSH is and
+how to use it through CLI. If not, take a quick look <a href=https://en.wikipedia.org/wiki/Secure_Shell>here</a>.
+In general SSH is the most common tool people use to connect to remote systems and servers.</p>
 <p>Usually, in the beginning, people start with simple <code>ssh &lt;user>@&lt;host></code> CLI usage.
-With time, people start using more and more advanced options which results in
-having messed-up commands that are hard or impossible to remember.</p>
+With time, using more and more advanced options, the commands become lengthy and clumsy
+resulting in a mess that are hard or impossible to remember.</p>
 <p>Let&rsquo;s give you an example:</p>
-<pre tabindex=0><code>## SSH with custom non-default port
-ssh &lt;user&gt;@&lt;long_host&gt; -p &lt;custom_non_default_port&gt;
-# SSH with custom access file
-ssh -i /path/to/another_access_file &lt;another_user&gt;@&lt;another_long_host&gt; -p &lt;some_magical_non_default_port&gt;
-# SSH through Jump server
-ssh -J &lt;magical_host_to_jump_server&gt; &lt;target_host&gt;
-#.. and so on and so forth
+<pre tabindex=0><code># My SSH life begins here
+ssh user@host
+# That was easy :)
+
+# Then some person decides to enforce security through obscurity
+ssh user@this.is.a.super.long.host.that.is.hard.to.remember.private.com
+# Eh mate, you can do better ;)
+
+# Then the same person decides to change the default port
+ssh -p 43571 user@this.is.a.super.long.host.that.is.hard.to.remember.private.com
+# I am pretty good at numerology X)
+
+# That's not enough, so let's disable password auth and
+# enforce public/private key authentication only
+ssh -p 43571 -i /where/the/heck/is/my/private/key user@this.is.a.super.long.host.that.is.hard.to.remember.private.com
+# Grr... :|
+
+# somebody from the infra team:
+# &quot;Mmm, the security team asked us to put everything in a private network
+# and you will need an access the server through our jump server&quot;
+ssh -J jumbo@this.is.another.obscure.host.private.jump.com:62891 -i /where/the/heck/is/my/private/key -p 43571 user@this.is.a.super.long.host.that.is.hard.to.remember.private.com
+# Just shut up and teach me about SSH config file! :@
 </code></pre><p>Remembering dictionary information nowadays should be considered a <strong>crime</strong>! So
 what you can do to make yourself a proper citizen of the world?</p>
 <h2 id=ssh-config-on-the-rescue>SSH config on the rescue<a hidden class=anchor aria-hidden=true href=#ssh-config-on-the-rescue>#</a></h2>
-<p>SSH utility has a metaverse of options on its own, so let&rsquo;s try to utilize them
+<p>SSH utilities have a metaverse of options and tools, so let&rsquo;s try to utilize them
 and simplify our work! One of them is the <strong>SSH config</strong>. The SSH config is a
 configurational file, usually stored at <code>~/.ssh/config</code> where you can pre-configure
 hosts and access configuration that you use frequently and simplify the access shown
 above to:</p>
-<pre tabindex=0><code># access with custom port
+<pre tabindex=0><code># access the 'this.is.a.super.long.host.that.is.hard.to.remember.private.com'
 ssh test
-# access with custom access file
+
+# access the non-default-port (43571) on you-know-which-host
 ssh ci
-# access through jump server
+
+# access the production for f@ck sake!
 ssh prod
 </code></pre><h3 id=setup>Setup<a hidden class=anchor aria-hidden=true href=#setup>#</a></h3>
 <ol>
-<li>Check whether you have <code>~/.ssh/config</code> on your local setup. If, let&rsquo;s create it!</li>
-<li>Open the file with a text editor (<code>vim</code>, <code>VSCode</code>, <del>nano</del>, etc&mldr;)</li>
+<li>Check whether you have <code>~/.ssh/config</code> on your local setup. If the file does not exist, let&rsquo;s create it! <em>NOTE: <code>~</code>(tilda) means the home directory of the current user.</em></li>
+<li>Open the file with a text editor (<code>vim</code>, <code>emacs</code>, <code>VSCode</code>, <em><del>nano</del></em>, etc&mldr;)</li>
 <li>Write down:</li>
 </ol>
-<pre tabindex=0><code>Host test
+<pre tabindex=0><code>Host &lt;alias&gt;
     Hostname &lt;[host|ip]&gt;                        # mandatory
     Port &lt;port&gt;                                 # optional
     User &lt;username&gt;                             # optional | nice-to-have
     IdentityFile &lt;path/to/identity_file&gt;        # optional | nice-to-have
     ProxyJump &lt;[host|ip]_of_jump_server&gt;        # optional
 </code></pre><ol start=4>
+<li>Replace the mandatory placeholders and remove the unused ones</li>
 <li>Save the file</li>
 </ol>
 <p>Where:</p>
 <ul>
-<li><code>host|ip</code> - is the DNS host or IP address of the target server</li>
-<li><code>port</code> - you can skip this if the target server runs SSH on the default <code>22</code> port. Otherwise, you will need to state it</li>
-<li><code>username</code> - the name of the remote user on the target server you want to connect with. <strong>NOTE</strong>: Default is your local machine username</li>
-<li><code>/path/to/identity_file</code> - this is the path to the private key you use to connect to the target server. <strong>NOTE</strong>: Default is <code>~/.ssh/id_rsa</code> or an iteration of the files within <code>~/.ssh</code> directory</li>
-<li><code>host|ip_of_jump_server</code> - if you want to connect to a target server using a <a href=https://en.wikipedia.org/wiki/Jump_server>jump server</a>, you should specify its DNS host or IP address here.</li>
+<li><code>Hostname &lt;[host|ip]></code> - the DNS host or IP address of the target server</li>
+<li><code>Port &lt;port></code> - you can skip this if the target server runs SSH on the default <code>22</code> port. Otherwise, you will need to state it</li>
+<li><code>User &lt;username></code> - the name of the remote user on the target server you want to connect with. <strong>NOTE</strong>: Default is your local machine username</li>
+<li><code>IdentifyFile &lt;/path/to/identity_file></code> - this is the path to the private key you use to connect to the target server. <strong>NOTE</strong>: Default is <code>~/.ssh/id_rsa</code> or an iteration of the files within <code>~/.ssh</code> directory</li>
+<li><code>ProxyJump &lt;[host|ip]_of_jump_server</code> - if you want to connect to a target server using a <a href=https://en.wikipedia.org/wiki/Jump_server>jump server</a>, you should specify its DNS host or IP address here.</li>
 </ul>
 <p>There are a ton of other options which you can explore <a href=https://linux.die.net/man/5/ssh_config>here</a></p>
 <h3 id=usage-and-access>Usage and Access<a hidden class=anchor aria-hidden=true href=#usage-and-access>#</a></h3>
-<p>Just run <code>ssh test</code>. If you have configured everything properly
-you should be connected to the target server with a clean and easy-to-remember CLI.</p>
+<pre tabindex=0><code># My SSH life begins again
+ssh test
+
+ssh ci
+
+ssh prod
+</code></pre><p>If you have configured everything properly you should be connected to
+the target server with a clean and easy-to-remember CLI. 🎊</p>
 <h3 id=troubleshooting>Troubleshooting<a hidden class=anchor aria-hidden=true href=#troubleshooting>#</a></h3>
 <p>In case the setup does not work, there are a few things you can inspect:</p>
 <ol>
-<li>🙇 Make sure you saved <code>~/.ssh/config</code></li>
-<li>✏️ Check for typos within the <code>~/.ssh/config</code></li>
+<li>✏️ Make sure you saved <code>~/.ssh/config</code></li>
+<li>🔎 Check for typos within the <code>~/.ssh/config</code></li>
 <li>☎️ If using DNS records for hostname configuration, inspect whether your setup can resolve them <code>nslookup &lt;host></code></li>
-<li>🔌 If you are not sure whether the configured port is open you can always run <code>nc -G 1 &lt;host> &lt;port></code>, where <code>1</code> is one second of timeout. If the operation times out, most probably the port is not open.</li>
-<li>🖨️ Check for network access to the target server <code>ping &lt;host></code>. <strong>NOTE</strong>: Sometimes admins disable <code>ping</code>, so it may not work. You can use <code>traceroute</code> in that case.</li>
+<li>🔌 If you are not sure whether the configured port is open you can always run <code>nc -G 1 &lt;host|ip> &lt;port></code>, where <code>-G 1</code> is one second of timeout. If the operation times out, most probably the port is not open.</li>
+<li>🖨️ Check for network access to the target server <code>ping &lt;host></code>. <em>NOTE: Sometimes admins disable <code>ping</code>, so it may not work</em>. You can use <code>traceroute</code> in that case.</li>
+<li>🔓 In case of <code>WARNING: UNPROTECTED PRIVATE KEY FILE!</code> run <code>chmod 0600 /path/to/private/key</code></li>
 </ol>
 <h2 id=wrap-up>Wrap-up<a hidden class=anchor aria-hidden=true href=#wrap-up>#</a></h2>
-<p>In the beginning, it may seem a burden to maintain your SSH config file. But with time
+<p>In the beginning, it may seem an overkill to maintain your SSH config file. But with time
 and exposure to more servers you will eventually end up using SSH config anyway.</p>
 <p>In the end - What if you want to create another host for access. Just repeat the steps above
 and enjoy your day! 🎉</p>
