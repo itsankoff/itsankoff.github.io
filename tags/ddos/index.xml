@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>DDoS on thetooth.io 🦷</title>
+    <link>https://thetooth.io/tags/ddos/</link>
+    <description>Recent content in DDoS on thetooth.io 🦷</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Apr 2022 22:32:58 +0300</lastBuildDate><atom:link href="https://thetooth.io/tags/ddos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[PARTIAL] Slowloris Attack 🦥 </title>
+      <link>https://thetooth.io/blog/slowloris-attack/</link>
+      <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
+      
+      <guid>https://thetooth.io/blog/slowloris-attack/</guid>
+      <description>Slowloris Attack Slowloris is an application layer Denial-of-Service (DoS) attack running on Application layer of the OSI model (OSI Layer 7). The attack allows the attacker to overwhelm a target HTTP server by exploiting the internal of the HTTP protocol.
+How does a Slowloris attack works? Slowloris attack works by utilizing partial HTTP requests. HTTP protocol works as opening client TCP connection to a target server and then sends the HTTP request.</description>
+    </item>
+    
+  </channel>
+</rss>
