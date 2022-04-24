@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thetooth.io/blog/slowloris-attack/</loc>
-    <lastmod>2022-04-20T22:32:58+03:00</lastmod>
-  </url><url>
     <loc>https://thetooth.io/blog/</loc>
     <lastmod>2022-04-20T22:32:58+03:00</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2022-04-20T22:32:58+03:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/slowloris/</loc>
+    <lastmod>2022-04-20T22:32:58+03:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/blog/slowloris-attack/</loc>
     <lastmod>2022-04-20T22:32:58+03:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/</loc>

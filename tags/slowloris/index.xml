@@ -8,13 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Apr 2022 22:32:58 +0300</lastBuildDate><atom:link href="https://thetooth.io/tags/slowloris/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>[PARTIAL] Slowloris Attack 🦥 </title>
+      <title>Slowloris Attack 🦥 </title>
       <link>https://thetooth.io/blog/slowloris-attack/</link>
       <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
       
       <guid>https://thetooth.io/blog/slowloris-attack/</guid>
-      <description>Slowloris Attack Slowloris is an application layer Denial-of-Service (DoS) attack running on Application layer of the OSI model (OSI Layer 7). The attack allows the attacker to overwhelm a target HTTP server by exploiting the internals of the HTTP protocol.
-How normal HTTP request-response works? In normal scenario the client opens a TCP connection after which it sends the text information for the request. Each of the request lines are terminated by \r\n sequence.</description>
+      <description>Apart from being the cutest animal in the world 😍, Slowloris is also a low-bandwidth application layer Denial-of-Service (DoS) attack running on Application layer of the OSI model (OSI Layer 7). The attack allows the attacker to overwhelm a target HTTP server by exploiting the internals of the HTTP protocol.
+How normal HTTP request-response works? In normal scenario the client opens a TCP connection after which it sends the text information for the request.</description>
     </item>
     
   </channel>
