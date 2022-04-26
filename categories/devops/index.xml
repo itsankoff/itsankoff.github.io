@@ -13,8 +13,8 @@
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
       
       <guid>https://thetooth.io/blog/ssh_access/</guid>
-      <description>If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general SSH is the most common tool people use to connect to remote systems and servers.
-Usually, in the beginning, people start with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that are hard or impossible to remember.</description>
+      <description>If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general, SSH is the most common tool people use to connect to remote systems and servers.
+Usually, in the beginning, a user starts with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that is hard or impossible to remember.</description>
     </item>
     
   </channel>
