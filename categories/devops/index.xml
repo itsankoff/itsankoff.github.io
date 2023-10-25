@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>**[thetooth.io](https://thetooth.io)**</copyright>
-    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate><atom:link href="https://thetooth.io/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate><atom:link href="https://thetooth.io/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up an OpenVPN Server with EasyRSA 3</title>
+      <link>https://thetooth.io/blog/openvpn-server-setup/</link>
+      <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
+      
+      <guid>https://thetooth.io/blog/openvpn-server-setup/</guid>
+      <description>In this post, we will walk through the steps of setting up an OpenVPN server on an Ubuntu 20.04 machine. Additionally, we will provide some context around VPNs, EasyRSA, and the cryptographic mechanisms involved in the process.
+Introduction to VPN and OpenVPN A VPN, or Virtual Private Network, is a technology that allows you to create a secure connection over the internet. OpenVPN is an open-source VPN protocol that is widely used for creating VPN servers and clients.</description>
+    </item>
+    
     <item>
       <title>SSH access made easy 📟</title>
       <link>https://thetooth.io/blog/ssh_access/</link>
