@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>EasyRSA on Personal Blog 🦷</title>
-    <link>https://thetooth.io/tags/easyrsa/</link>
-    <description>Recent content in EasyRSA on Personal Blog 🦷</description>
+    <title>Vpn on Personal Blog 🦷</title>
+    <link>https://thetooth.io/categories/vpn/</link>
+    <description>Recent content in Vpn on Personal Blog 🦷</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <copyright>thetooth.io</copyright>
     <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate>
-    <atom:link href="https://thetooth.io/tags/easyrsa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thetooth.io/categories/vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🛡️ Setting Up an OpenVPN Server with EasyRSA 3</title>
       <link>https://thetooth.io/blog/openvpn-server-setup/</link>

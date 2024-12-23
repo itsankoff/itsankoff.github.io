@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://thetooth.io/blog/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
@@ -23,16 +26,10 @@
     <loc>https://thetooth.io/tags/openvpn/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
-    <loc>https://thetooth.io/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/categories/security/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
     <loc>https://thetooth.io/tags/security/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
-    <loc>https://thetooth.io/blog/openvpn-server-setup/</loc>
+    <loc>https://thetooth.io/categories/security/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/</loc>
@@ -41,7 +38,13 @@
     <loc>https://thetooth.io/categories/tech/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
+    <loc>https://thetooth.io/categories/vpn/</loc>
+    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+  </url><url>
     <loc>https://thetooth.io/tags/vpn/</loc>
+    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/blog/openvpn-server-setup/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/ddos/</loc>
@@ -56,6 +59,9 @@
     <loc>https://thetooth.io/blog/slowloris-attack/</loc>
     <lastmod>2022-04-20T22:32:58+03:00</lastmod>
   </url><url>
+    <loc>https://thetooth.io/blog/ssh_access/</loc>
+    <lastmod>2022-01-17T13:39:58+02:00</lastmod>
+  </url><url>
     <loc>https://thetooth.io/tags/access/</loc>
     <lastmod>2022-01-17T13:39:58+02:00</lastmod>
   </url><url>
@@ -63,9 +69,6 @@
     <lastmod>2022-01-17T13:39:58+02:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/ssh/</loc>
-    <lastmod>2022-01-17T13:39:58+02:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/blog/ssh_access/</loc>
     <lastmod>2022-01-17T13:39:58+02:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/blog/thebeginning/</loc>

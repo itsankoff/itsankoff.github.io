@@ -4,19 +4,23 @@
     <title>VPN on Personal Blog 🦷</title>
     <link>https://thetooth.io/tags/vpn/</link>
     <description>Recent content in VPN on Personal Blog 🦷</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <copyright>**[thetooth.io](https://thetooth.io)**</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate><atom:link href="https://thetooth.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>thetooth.io</copyright>
+    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate>
+    <atom:link href="https://thetooth.io/tags/vpn/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setting Up an OpenVPN Server with EasyRSA 3</title>
+      <title>🛡️ Setting Up an OpenVPN Server with EasyRSA 3</title>
       <link>https://thetooth.io/blog/openvpn-server-setup/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/blog/openvpn-server-setup/</guid>
-      <description>In this post, we will walk through the steps of setting up an OpenVPN server on an Ubuntu 20.04 machine. Additionally, we will provide some context around VPNs, EasyRSA, and the cryptographic mechanisms involved in the process.
-Introduction to VPN and OpenVPN A VPN, or Virtual Private Network, is a technology that allows you to create a secure connection over the internet. OpenVPN is an open-source VPN protocol that is widely used for creating VPN servers and clients.</description>
+      <description>&lt;p&gt;In this post, we will walk through the steps of setting up an OpenVPN server on
+an Ubuntu 20.04, 22.04 or 24.04 machine (it should work for older versions as well 🤞). Additionally, we will provide some context around VPNs,
+EasyRSA, and the cryptographic mechanisms involved in the process.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-vpn-and-openvpn&#34;&gt;Introduction to VPN and OpenVPN&lt;/h2&gt;
+&lt;p&gt;A VPN, or Virtual Private Network, is a technology that allows you to create
+a secure connection over the internet. OpenVPN is an open-source VPN protocol
+that is widely used for creating VPN servers and clients.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

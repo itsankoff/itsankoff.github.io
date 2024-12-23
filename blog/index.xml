@@ -4,49 +4,61 @@
     <title>Blogs on Personal Blog 🦷</title>
     <link>https://thetooth.io/blog/</link>
     <description>Recent content in Blogs on Personal Blog 🦷</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <copyright>**[thetooth.io](https://thetooth.io)**</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate><atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>thetooth.io</copyright>
+    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate>
+    <atom:link href="https://thetooth.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Setting Up an OpenVPN Server with EasyRSA 3</title>
+      <title>🛡️ Setting Up an OpenVPN Server with EasyRSA 3</title>
       <link>https://thetooth.io/blog/openvpn-server-setup/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/blog/openvpn-server-setup/</guid>
-      <description>In this post, we will walk through the steps of setting up an OpenVPN server on an Ubuntu 20.04 machine. Additionally, we will provide some context around VPNs, EasyRSA, and the cryptographic mechanisms involved in the process.
-Introduction to VPN and OpenVPN A VPN, or Virtual Private Network, is a technology that allows you to create a secure connection over the internet. OpenVPN is an open-source VPN protocol that is widely used for creating VPN servers and clients.</description>
+      <description>&lt;p&gt;In this post, we will walk through the steps of setting up an OpenVPN server on
+an Ubuntu 20.04, 22.04 or 24.04 machine (it should work for older versions as well 🤞). Additionally, we will provide some context around VPNs,
+EasyRSA, and the cryptographic mechanisms involved in the process.&lt;/p&gt;
+&lt;h2 id=&#34;introduction-to-vpn-and-openvpn&#34;&gt;Introduction to VPN and OpenVPN&lt;/h2&gt;
+&lt;p&gt;A VPN, or Virtual Private Network, is a technology that allows you to create
+a secure connection over the internet. OpenVPN is an open-source VPN protocol
+that is widely used for creating VPN servers and clients.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Slowloris Attack 🦥 </title>
+      <title>🦥 Slowloris Attack</title>
       <link>https://thetooth.io/blog/slowloris-attack/</link>
       <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
-      
       <guid>https://thetooth.io/blog/slowloris-attack/</guid>
-      <description>Apart from being the cutest animal in the world 😍, Slowloris is also a low-bandwidth Denial-of-Service (DoS) attack running on Application layer of the OSI model (OSI Layer 7). The attack allows the attacker to overwhelm a target HTTP server by exploiting the internals of the HTTP protocol.
-How does a normal HTTP request-response work? In a normal scenario the client opens a TCP connection after which it sends the text information for the request.</description>
+      <description>&lt;p&gt;Apart from being the cutest animal in the world 😍,
+Slowloris is also a low-bandwidth &lt;strong&gt;D&lt;/strong&gt;enial-&lt;strong&gt;o&lt;/strong&gt;f-&lt;strong&gt;S&lt;/strong&gt;ervice (DoS) attack
+running on Application layer of the
+&lt;a href=&#34;https://en.wikipedia.org/wiki/OSI_model&#34;&gt;OSI model&lt;/a&gt; (OSI Layer 7). The attack
+allows the attacker to overwhelm a target HTTP server by exploiting the
+internals of the &lt;a href=&#34;https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol&#34;&gt;HTTP protocol&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;how-does-a-normal-http-request-response-work&#34;&gt;How does a normal HTTP request-response work?&lt;/h2&gt;
+&lt;p&gt;In a normal scenario the client opens a TCP connection after which it sends the
+text information for the request. Each of the request&amp;rsquo;s &lt;code&gt;lines&lt;/code&gt; are terminated
+by &lt;code&gt;\r\n&lt;/code&gt; (so-called &lt;code&gt;CRLF&lt;/code&gt; - carriage return line feed ⌨️) sequence.
+The end of the request is signaled by &lt;code&gt;\r\n\r\n&lt;/code&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>SSH access made easy 📟</title>
+      <title>📟 SSH access made easy</title>
       <link>https://thetooth.io/blog/ssh_access/</link>
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
-      
       <guid>https://thetooth.io/blog/ssh_access/</guid>
-      <description>If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general, SSH is the most common tool people use to connect to remote systems and servers.
-Usually, in the beginning, a user starts with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that is hard or impossible to remember.</description>
+      <description>&lt;p&gt;If you are landing on this page you probably already know what SSH is and
+how to use it through CLI. If not, take a quick look &lt;a href=&#34;https://en.wikipedia.org/wiki/Secure_Shell&#34;&gt;here&lt;/a&gt;.
+In general, SSH is the most common tool people use to connect to remote systems and servers.&lt;/p&gt;
+&lt;p&gt;Usually, in the beginning, a user starts with simple &lt;code&gt;ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt;&lt;/code&gt; CLI usage.
+With time, using more and more advanced options, the commands become lengthy and clumsy
+resulting in a mess that is hard or impossible to remember.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>The Beginning 🎬</title>
+      <title>🎬 The Beginning</title>
       <link>https://thetooth.io/blog/thebeginning/</link>
       <pubDate>Sun, 31 Oct 2021 13:59:18 +0200</pubDate>
-      
       <guid>https://thetooth.io/blog/thebeginning/</guid>
-      <description>Init blogpost 🎬
-echo Hello World 🦷 </description>
+      <description>&lt;p&gt;Init blogpost 🎬&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;echo Hello World 🦷
+&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
-    
   </channel>
 </rss>

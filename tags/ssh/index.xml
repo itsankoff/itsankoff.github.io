@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ssh on Personal Blog 🦷</title>
+    <title>Ssh on Personal Blog 🦷</title>
     <link>https://thetooth.io/tags/ssh/</link>
-    <description>Recent content in ssh on Personal Blog 🦷</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ssh on Personal Blog 🦷</description>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <copyright>**[thetooth.io](https://thetooth.io)**</copyright>
-    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate><atom:link href="https://thetooth.io/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>thetooth.io</copyright>
+    <lastBuildDate>Mon, 17 Jan 2022 13:39:58 +0200</lastBuildDate>
+    <atom:link href="https://thetooth.io/tags/ssh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SSH access made easy 📟</title>
+      <title>📟 SSH access made easy</title>
       <link>https://thetooth.io/blog/ssh_access/</link>
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
-      
       <guid>https://thetooth.io/blog/ssh_access/</guid>
-      <description>If you are landing on this page you probably already know what SSH is and how to use it through CLI. If not, take a quick look here. In general, SSH is the most common tool people use to connect to remote systems and servers.
-Usually, in the beginning, a user starts with simple ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt; CLI usage. With time, using more and more advanced options, the commands become lengthy and clumsy resulting in a mess that is hard or impossible to remember.</description>
+      <description>&lt;p&gt;If you are landing on this page you probably already know what SSH is and
+how to use it through CLI. If not, take a quick look &lt;a href=&#34;https://en.wikipedia.org/wiki/Secure_Shell&#34;&gt;here&lt;/a&gt;.
+In general, SSH is the most common tool people use to connect to remote systems and servers.&lt;/p&gt;
+&lt;p&gt;Usually, in the beginning, a user starts with simple &lt;code&gt;ssh &amp;lt;user&amp;gt;@&amp;lt;host&amp;gt;&lt;/code&gt; CLI usage.
+With time, using more and more advanced options, the commands become lengthy and clumsy
+resulting in a mess that is hard or impossible to remember.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

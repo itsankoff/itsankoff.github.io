@@ -4,108 +4,87 @@
     <title>Tags on Personal Blog 🦷</title>
     <link>https://thetooth.io/tags/</link>
     <description>Recent content in Tags on Personal Blog 🦷</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <copyright>**[thetooth.io](https://thetooth.io)**</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate><atom:link href="https://thetooth.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>thetooth.io</copyright>
+    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate>
+    <atom:link href="https://thetooth.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EasyRSA</title>
       <link>https://thetooth.io/tags/easyrsa/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/easyrsa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Linux</title>
       <link>https://thetooth.io/tags/linux/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/linux/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>OpenVPN</title>
       <link>https://thetooth.io/tags/openvpn/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/openvpn/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Security</title>
       <link>https://thetooth.io/tags/security/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/security/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>VPN</title>
       <link>https://thetooth.io/tags/vpn/</link>
       <pubDate>Wed, 25 Oct 2023 16:26:07 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/vpn/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DDoS</title>
       <link>https://thetooth.io/tags/ddos/</link>
       <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/ddos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>DoS</title>
       <link>https://thetooth.io/tags/dos/</link>
       <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/dos/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>slowloris</title>
+      <title>Slowloris</title>
       <link>https://thetooth.io/tags/slowloris/</link>
       <pubDate>Wed, 20 Apr 2022 22:32:58 +0300</pubDate>
-      
       <guid>https://thetooth.io/tags/slowloris/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>access</title>
+      <title>Access</title>
       <link>https://thetooth.io/tags/access/</link>
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
-      
       <guid>https://thetooth.io/tags/access/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>config</title>
+      <title>Config</title>
       <link>https://thetooth.io/tags/config/</link>
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
-      
       <guid>https://thetooth.io/tags/config/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ssh</title>
+      <title>Ssh</title>
       <link>https://thetooth.io/tags/ssh/</link>
       <pubDate>Mon, 17 Jan 2022 13:39:58 +0200</pubDate>
-      
       <guid>https://thetooth.io/tags/ssh/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
