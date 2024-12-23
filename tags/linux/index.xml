@@ -7,8 +7,15 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <copyright>thetooth.io</copyright>
-    <lastBuildDate>Wed, 25 Oct 2023 16:26:07 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 17:40:46 +0100</lastBuildDate>
     <atom:link href="https://thetooth.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀 Automating OpenVPN Server Setup with Ansible</title>
+      <link>https://thetooth.io/blog/openvpn-server-automation/</link>
+      <pubDate>Mon, 23 Dec 2024 17:40:46 +0100</pubDate>
+      <guid>https://thetooth.io/blog/openvpn-server-automation/</guid>
+      <description>Part 2: Simplifying OpenVPN server setup using Ansible for automation enthusiasts. Follow this guide to deploy your VPN in minutes!</description>
+    </item>
     <item>
       <title>🛡️ Setting Up an OpenVPN Server with EasyRSA 3</title>
       <link>https://thetooth.io/blog/openvpn-server-setup/</link>

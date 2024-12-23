@@ -2,46 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thetooth.io/blog/openvpn-server-automation/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/ansible/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/automation/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
     <loc>https://thetooth.io/blog/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/devops/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/easyrsa/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/infra/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/linux/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
-    <loc>https://thetooth.io/categories/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/categories/devops/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/tags/easyrsa/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/categories/infra/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/tags/linux/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/tags/openvpn/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
-  </url><url>
     <loc>https://thetooth.io/tags/security/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/security/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/tech/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/vpn/</loc>
-    <lastmod>2023-10-25T16:26:07+03:00</lastmod>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/vpn/</loc>
+    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/openvpn/</loc>
     <lastmod>2023-10-25T16:26:07+03:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/blog/openvpn-server-setup/</loc>
