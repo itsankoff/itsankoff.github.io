@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thetooth.io/blog/gopro-plus-downloader/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/blog/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/docker/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/gopro/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/python/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/tags/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/tech/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thetooth.io/categories/tooling/</loc>
+    <lastmod>2024-12-26T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thetooth.io/blog/openvpn-server-automation/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
@@ -9,12 +39,6 @@
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/tags/automation/</loc>
-    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/blog/</loc>
-    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/categories/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/devops/</loc>
@@ -29,19 +53,10 @@
     <loc>https://thetooth.io/tags/linux/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
-    <loc>https://thetooth.io/</loc>
-    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
-  </url><url>
     <loc>https://thetooth.io/tags/security/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/security/</loc>
-    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/tags/</loc>
-    <lastmod>2024-12-23T17:40:46+01:00</lastmod>
-  </url><url>
-    <loc>https://thetooth.io/categories/tech/</loc>
     <lastmod>2024-12-23T17:40:46+01:00</lastmod>
   </url><url>
     <loc>https://thetooth.io/categories/vpn/</loc>
